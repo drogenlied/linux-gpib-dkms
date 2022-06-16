@@ -1,0 +1,18 @@
+Source: gpib-dkms
+Section: net
+Priority: optional
+Maintainer: Jan Binder <jan@nlogn.org>
+Build-Depends: debhelper-compat (= 13),
+	dkms,
+Standards-Version: 4.6.0
+Homepage: https://linux-gpib.sourceforge.io/
+Vcs-Browser: https://sourceforge.net/p/linux-gpib/code/HEAD/tree/
+Rules-Requires-Root: no
+
+Package: gpib-dkms
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Linux GPIB drivers
+ asdfghxxyz
+ .
+ This package uses DKMS to automatically build the linux gpib driver kernel modules.

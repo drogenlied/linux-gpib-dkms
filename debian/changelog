@@ -1,0 +1,5 @@
+gpib-dkms (0.0.1+svn2020) UNRELEASED; urgency=medium
+
+  * Initial release (Closes: #xxxxxxx)
+
+ -- Jan Binder <jan-debian@nlogn.org>  Sun, 20 Mar 2022 22:16:06 +0100
