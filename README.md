@@ -18,4 +18,4 @@ Install with `dpkg`, if building the kernel modules fails during package install
 check that you have the correct kernel souce, compiler and other build tools installed
 to successfully build a kernel module.
 
-Tested on Kernel 5.18, may or may not work on future versions.
+Tested on with linux-gpib 4.3.5, Kernel 5.18, may or may not work on future versions.
