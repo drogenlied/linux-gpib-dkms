@@ -15,7 +15,7 @@ Install any packages that `debuild` complains about. If the build goes smoothly,
 
 ## Install
 Install with `dpkg`, if building the kernel modules fails during package installation, 
-check that you have the correct kernel souce, compiler and other build tools installed
+check that you have the necessary kernel headers, compiler, and other build tools installed
 to successfully build a kernel module.
 
 Tested on with linux-gpib 4.3.5, Kernel 5.18, may or may not work on future versions.
