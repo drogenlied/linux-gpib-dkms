@@ -1,3 +1,4 @@
+# Check https://github.com/drogenlied/gpib instead
 # DKMS package for the linux-gpib kernel driver
 ## Prerequisites
 At least the Debian packages `devscripts`, `dkms`, `subversion`, `git`
